@@ -119,7 +119,7 @@ Esse projeto serve como base sólida para qualquer aplicação React que exija o
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/priscilaamorim/amigo-secreto.git
+git clone https://github.com/priscilaamorim/Amigo-secreto_React.git
 cd amigo-secreto
 npm install 
 
